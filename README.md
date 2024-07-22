@@ -2,7 +2,7 @@
 
 This is the working area for the individual Internet-Draft, "The CDDL format for vCon - Conversation Data Container".
 
-* [Editor's Copy](https://ietf-wg-vcon.github.io/draft-petrie-vcon-vcon-container/#go.draft-vcon-vcon-container.html)
+* [Editor's Copy](https://ietf-wg-vcon.github.io/draft-vcon-vcon-container/#go.draft-vcon-vcon-container.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-vcon-vcon-container)
 * [Individual Draft](https://datatracker.ietf.org/doc/html/draft-vcon-vcon-container)
 * [Compare Editor's Copy to Individual Draft](https://ietf-wg-vcon.github.io/draft-petrie-vcon-vcon-container/#go.draft-vcon-vcon-container.diff)
